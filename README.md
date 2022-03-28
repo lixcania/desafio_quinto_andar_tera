@@ -1,5 +1,6 @@
-# desafio_quinto_andar_tera
-Tera - Desafio Quinto Andar - Modelo de Regressão e Random Forest para predição de preço de imóveis.
+# Desafio Quinto Andar + Tera
+
+Esse foi um desafio proposto pela escola Tera em conjunto com a Quinto Andar para a formação de Cientista de Dados Turma 2021.2.
 
 Desafio Regressão
 
